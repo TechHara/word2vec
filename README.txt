@@ -1,3 +1,7 @@
+Fix for macOS with m1-chip
+- demo-word.sh should work on macOS with clang
+
+-----------------------------------------------------
 Tools for computing distributed representtion of words
 ------------------------------------------------------
 
